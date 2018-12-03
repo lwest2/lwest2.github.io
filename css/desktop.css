@@ -122,6 +122,20 @@ body {
   background-image: url('../resources/img/parallax5.png');
 }
 
+.meetTeam {
+  font-weight: bold;
+  text-align: center;
+  font-size: 4em;
+  margin-bottom: 30px;
+}
+
+.infoProfile {
+  text-align: center;
+  font-weight: bold;
+  font-size: 2em;
+  margin-top: 10px;
+}
+
 h2 {
   font-weight: bold;
   text-align: center;
@@ -159,4 +173,31 @@ a:hover {
 
 .content {
   bottom: 0;
+}
+
+.profileAvatar {
+  border-radius: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.socialIcon {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.socialIconDiv {
+  text-align: center;
+}
+
+.infoParagraph {
+  text-align: center;
+  font-size: 1em;
+  margin-top: 15px;
+}
+.rolesProfile {
+  text-align: center;
+  margin-top: 10px;
 }
