@@ -107,16 +107,16 @@ body {
 
 #keyart-0 {
   background-color: #000a12;
-  background-image: url('../resources/img/parallax0.png')
+  background-image: url('../resources/img/parallax0.png');
 }
 #keyart-2 {
-  background-image: url('../resources/img/parallax2.png')
+  background-image: url('../resources/img/parallax2.png');
 }
 #keyart-3 {
-  background-image: url('../resources/img/parallax3.png')
+  background-image: url('../resources/img/parallax3.png');
 }
 #keyart-4 {
-  background-image: url('../resources/img/parallax4.png')
+  background-image: url('../resources/img/parallax4.png');
 }
 #keyart-5 {
   background-image: url('../resources/img/parallax5.png');
