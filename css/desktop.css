@@ -142,3 +142,17 @@ h5 {
   line-height: 1.6em;
   font-size: 1rem;
 }
+
+hr {
+  border-top: 1px solid white;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+a {
+  color: #4f5b62;
+}
+
+a:hover {
+  color: #4f5b62;
+}
