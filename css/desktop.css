@@ -156,3 +156,7 @@ a {
 a:hover {
   color: #4f5b62;
 }
+
+.content {
+  bottom: 0;
+}
